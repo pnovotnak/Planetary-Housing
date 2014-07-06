@@ -2,7 +2,7 @@
  *  Peter Novotnak, Chris Meyer, Micah Ericson :: 2014
  *
  *    This is the outer portion of a housing for a Currie 75mm
- *  planetary gear reduction for an AquaStar T20 motor.
+ *  planetary gear reduction. RTV not included ;)
  *
 */
 

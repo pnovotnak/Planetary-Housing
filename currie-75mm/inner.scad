@@ -2,7 +2,8 @@
  *  Peter Novotnak, Chris Meyer, Micah Ericson :: 2014
  *
  *    This is the inner portion of a housing for a Currie 75mm
- *  planetary gear reduction for an AquaStar T20 motor.
+ *  planetary gear reduction. The inner bolt pattern matches
+ *  the AquaStar T20 motor.
  *
 */
 
