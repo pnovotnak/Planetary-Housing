@@ -15,7 +15,6 @@ difference() {
     // Snap ring flutes
     translate([0, 0, 21-4])
     	cylinder (h=2.5, r=8, $fn=facets);
-
     translate([0, 0, 7.25])
     	cylinder (h=1.2, r=17.25, $fn=facets);
 
