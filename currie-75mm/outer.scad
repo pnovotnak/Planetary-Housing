@@ -1,7 +1,14 @@
+/*
+ *  Peter Novotnak, Chris Meyer, Micah Ericson :: 2014
+ *
+ *    This is the outer portion of a housing for a Currie 75mm
+ *  planetary gear reduction for an AquaStar T20 motor.
+ *
+*/
 
-// 68.25 x 8
 
-facets = 200;
+facets = 200; // Reduce to reduce OpenSCAD build time
+
 
 difference() {
     cylinder (h=21, r=37.5, $fn=facets);
